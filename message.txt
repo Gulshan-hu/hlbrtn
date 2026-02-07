@@ -1,1 +1,2 @@
 Message from feature branch
+another change from feature
